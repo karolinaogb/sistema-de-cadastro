@@ -4,6 +4,6 @@
 
 Para rodar o projeto da sua máquina 
 ```
-npm / install / 
+node app.js
 ```
 
